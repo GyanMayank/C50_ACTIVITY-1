@@ -1,0 +1,36 @@
+.head{
+     border: solid;
+     border-width: 5px;
+     background-color: aquamarine;
+}
+
+.game1{
+     border: solid;
+     border-width: 5px;
+     background-color:rgb(195, 132, 109);
+}
+
+.game2{
+     border: solid;
+     border-width: 5px;
+     background-color:rgb(243, 166, 137);
+}
+
+.game3{
+     border: solid;
+     border-width: 5px;
+     background-color:rgb(195, 132, 109);
+}
+
+.game4{
+     border: solid;
+     border-width: 5px;
+     background-color:rgb(243, 166, 137);
+}
+
+.game5{
+     border: solid;
+     border-width: 5px;
+     background-color:rgb(195, 132, 109);
+}
+
